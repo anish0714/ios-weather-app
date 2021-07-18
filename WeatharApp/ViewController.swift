@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var humidity: UILabel!
     @IBOutlet weak var wind: UILabel!
     
-    let apiKey = "521b4b834c8b65916ead071942e41796"
+    let apiKey = ""
     let apiUrl = "https://api.openweathermap.org/"
     let cityName = "Waterloo,ca"
 
